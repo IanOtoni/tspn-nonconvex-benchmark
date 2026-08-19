@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite the paper below."
+title: "TSPN Non-Convex Benchmark"
+authors:
+  - family-names: "Otoni"
+    given-names: "Ian"
+    affiliation: "Universidade Federal de Minas Gerais"
+  - family-names: "Moreira"
+    given-names: "Gabriel"
+    affiliation: "Universidade Federal de Viçosa"
+  - family-names: "de Magalhães"
+    given-names: "Salles Viana Gomes"
+    affiliation: "Universidade Federal de Viçosa"
+  - family-names: "dos Santos"
+    given-names: "André Gustavo"
+    affiliation: "Universidade Federal de Viçosa"
+preferred-citation:
+  type: conference-paper
+  title: "A GPU-Accelerated Two-Level Hybrid Approach for the Traveling Salesperson Problem with Non-Convex Neighborhoods"
+  authors:
+    - family-names: "Otoni"
+      given-names: "Ian"
+    - family-names: "Moreira"
+      given-names: "Gabriel"
+    - family-names: "de Magalhães"
+      given-names: "Salles Viana Gomes"
+    - family-names: "dos Santos"
+      given-names: "André Gustavo"
+  collection-title: "Anais do LVIII Simpósio Brasileiro de Pesquisa Operacional (SBPO)"
+  year: 2026
+  location: "Belo Horizonte, MG, Brazil"
